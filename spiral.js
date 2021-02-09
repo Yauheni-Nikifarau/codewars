@@ -94,5 +94,3 @@ var spiralize = function (n) {
     }
     return array;
 }
-
-console.log(spiralize(10));
